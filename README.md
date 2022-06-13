@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **solang compiler**
 
-- 📫 How to reach me **leckerperidot@gmail.com**
+- 📫 How to reach me ****
 
 ## ❤️ Let's get connected:
 <p align="left">
