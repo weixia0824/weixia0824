@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Nezuko</h1>
+<h1 align="center">Hi 👋, I'm Evangeline</h1>
 <h3 align="center">A passionate beginner in programming</h3>
 
 ## 👨🏻‍💻 About Me:
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **solang compiler**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **evanvonderhorst@gmail.com**
 
 ## ❤️ Let's get connected:
 <p align="left">
