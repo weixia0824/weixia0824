@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sharon</h1>
-<h3 align="center">A passionate beginner in programming</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 ## 👨🏻‍💻 About Me:
 
