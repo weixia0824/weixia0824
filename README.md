@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sharon</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Passion about programming, data science and energy</h3>
 
 ## 👨🏻‍💻 About Me:
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and using**javascript, solidity, python, react**
 
-- 📫 How to reach me **evanvonderhorst@gmail.com**
+- 📫 How to reach me **...**
 
 ## ❤️ Let's get connected:
 <p align="left">
