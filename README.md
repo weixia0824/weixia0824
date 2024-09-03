@@ -1,14 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sharon</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h3 align="center">Passion about programming, data science and energy</h3>
 
 ## 👨🏻‍💻 About Me:
 
-- 🔭 I’m currently working on **client app for solana contract**
+- 🔭 I’m currently working on **Forecast project**
 
-- 🌱 I’m currently learning **javascript, solidity, python, react**
-
-- 🤝 I’m looking for help with **solang compiler**
+- 🌱 I’m currently learning and using**javascript, solidity, python, react**
 
 - 📫 How to reach me **evanvonderhorst@gmail.com**
 
