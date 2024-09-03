@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Forecast project**
 
-- 🌱 I’m currently learning and using**javascript, solidity, python, react**
+- 🌱 I’m currently learning and using **javascript, solidity, python, react**
 
 - 📫 How to reach me **...**
 
