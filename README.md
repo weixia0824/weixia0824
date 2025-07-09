@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🔭 I’m currently working on **Forecast project**
+- 🔭 I’m currently working on **Energy Trading project**
 
 - 🌱 I’m currently learning and using **javascript, solidity, python, react**
 
